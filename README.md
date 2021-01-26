@@ -28,5 +28,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Links
 
-[Youtube Api](https://developers.google.com/youtube/v3/docs).
-[Bootsrap 4](https://getbootstrap.com/docs/4.6/getting-started/introduction/).
+- [Youtube Api](https://developers.google.com/youtube/v3/docs).
+- [Bootsrap 4](https://getbootstrap.com/docs/4.6/getting-started/introduction/).
