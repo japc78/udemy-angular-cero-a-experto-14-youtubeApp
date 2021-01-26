@@ -8,7 +8,7 @@
         <h5 class="card-title">{{ video.title }}</h5>
         <p class="card-text">Author: {{ video.channelTitle }}</p>
         <p class="card-text">Date: {{ video.publishedAt | date }}</p>
-        <button type="button" class="btn btn-outline-primary btn-block btn-small">View</button>
+        <button (click)="showVideo(video)" type="button" class="btn btn-outline-primary btn-block btn-small">View</button>
       </div>
     </div>
 </div>

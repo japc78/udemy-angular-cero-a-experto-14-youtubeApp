@@ -30,3 +30,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 - [Youtube Api](https://developers.google.com/youtube/v3/docs).
 - [Bootsrap 4](https://getbootstrap.com/docs/4.6/getting-started/introduction/).
+- [sweetalert2](https://sweetalert2.github.io/)
