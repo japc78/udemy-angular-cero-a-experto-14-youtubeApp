@@ -1,0 +1,232 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "wBM80zKrVs9LIJbJOvDXspTetRw",
+    "nextPageToken": "CAoQAA",
+    "prevPageToken": "CAUQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "H_lL2OMmUrA9BB3L77twTR6KFlg",
+            "id": "VVV1YVBUWWoxNUpTa0VUR25Fc2VhRkZnLnVnbjZmTTVSYy1F",
+            "snippet": {
+                "publishedAt": "2020-12-11T16:41:49Z",
+                "channelId": "UCuaPTYj15JSkETGnEseaFFg",
+                "title": "Estructura de Directorios para proyectos medianos y grandes",
+                "description": "Esta es una idea para la estructura de directorio para sus proyectos, espero les pueda servir especialmente a las personas que están comenzando con Angular y no saben cómo escalar su aplicación.\n\nRecuerden que pueden encontrar todos mis cursos aquí:\nhttps://fernando-herrera.com/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ugn6fM5Rc-E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ugn6fM5Rc-E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ugn6fM5Rc-E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ugn6fM5Rc-E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ugn6fM5Rc-E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Fernando Herrera",
+                "playlistId": "UUuaPTYj15JSkETGnEseaFFg",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ugn6fM5Rc-E"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "iRF9dE3pI1CXuaOg8VkRsR_dk1A",
+            "id": "VVV1YVBUWWoxNUpTa0VUR25Fc2VhRkZnLmI5VERzUzdNOUVJ",
+            "snippet": {
+                "publishedAt": "2020-12-08T19:40:15Z",
+                "channelId": "UCuaPTYj15JSkETGnEseaFFg",
+                "title": "300 mil alumnos en Udemy - Gracias!",
+                "description": "Este es un video de agradecimiento por todo su apoyo, ayuda, soporte y asistencia que me han dado a lo largo de los años, espero les guste esta recopilación de videos.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/b9TDsS7M9EI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/b9TDsS7M9EI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/b9TDsS7M9EI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/b9TDsS7M9EI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/b9TDsS7M9EI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Fernando Herrera",
+                "playlistId": "UUuaPTYj15JSkETGnEseaFFg",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "b9TDsS7M9EI"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "hfSuKpo2G2F4OEs4o9-HFs3pQis",
+            "id": "VVV1YVBUWWoxNUpTa0VUR25Fc2VhRkZnLkRjMFBnSm0zS0Ew",
+            "snippet": {
+                "publishedAt": "2020-11-17T21:43:57Z",
+                "channelId": "UCuaPTYj15JSkETGnEseaFFg",
+                "title": "Cuanto cobrar por un proyecto como Freelance",
+                "description": "Este video espero que te pueda dar una idea de cuanto cobrar a la hora de hacer un proyecto como Freelance, no hay una formula exacta y depende de muchos factores, pero me gustaría pensar que esto te puede ayudar.\n\nRecuerden que cuando compran mis cursos desde mi sitio web, me apoyan directamente para poder seguir creando contenido y material para ustedes como estos videos:\nhttps://fernando-herrera.com/#/home\n\nRecuerden que ahí siempre tienen todos mis cursos siempre con descuento.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Dc0PgJm3KA0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Dc0PgJm3KA0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Dc0PgJm3KA0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Dc0PgJm3KA0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Fernando Herrera",
+                "playlistId": "UUuaPTYj15JSkETGnEseaFFg",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Dc0PgJm3KA0"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "te_RHuGgI8EO2uHuuJCDd5TsuEs",
+            "id": "VVV1YVBUWWoxNUpTa0VUR25Fc2VhRkZnLjdXWXhaT0duZ3Nv",
+            "snippet": {
+                "publishedAt": "2020-11-12T16:29:43Z",
+                "channelId": "UCuaPTYj15JSkETGnEseaFFg",
+                "title": "SeasonOfSkill - Preguntas de Udemy - Twitter",
+                "description": "Aquí estaré respondiendo preguntas planteadas en el Twitter de Udemy_es",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7WYxZOGngso/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7WYxZOGngso/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7WYxZOGngso/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7WYxZOGngso/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7WYxZOGngso/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Fernando Herrera",
+                "playlistId": "UUuaPTYj15JSkETGnEseaFFg",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "7WYxZOGngso"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ScKRwiVUjlYp2XVMYRnKY805iLw",
+            "id": "VVV1YVBUWWoxNUpTa0VUR25Fc2VhRkZnLlVQQ09KZ0xscjN3",
+            "snippet": {
+                "publishedAt": "2020-10-23T19:13:37Z",
+                "channelId": "UCuaPTYj15JSkETGnEseaFFg",
+                "title": "React: Context Api",
+                "description": "Curso completo de React:\nhttps://fernando-herrera.com/#/curso/react",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UPCOJgLlr3w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UPCOJgLlr3w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UPCOJgLlr3w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UPCOJgLlr3w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UPCOJgLlr3w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Fernando Herrera",
+                "playlistId": "UUuaPTYj15JSkETGnEseaFFg",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "UPCOJgLlr3w"
+                }
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 496,
+        "resultsPerPage": 5
+    }
+}
